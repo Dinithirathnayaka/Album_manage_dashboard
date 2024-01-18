@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject2s",
+    "pageId": "Home Page",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Home Page_JSObject2s",
+  "deleted": false,
+  "gitSyncId": "65a5498a1f076a52e45a4a0c_65a7f5953cbe55685c90d24a"
+}

@@ -1,0 +1,6 @@
+{
+	"Id": {{AlbumData.triggeredRow.Id}},
+	"Album": "{{Input1.text}}",
+	"Status": "{{updateStatus.selectedOptionValue}}",
+
+}

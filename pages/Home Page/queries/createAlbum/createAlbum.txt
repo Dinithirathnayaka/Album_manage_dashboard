@@ -1,0 +1,8 @@
+{
+	"Album": "{{albumName.text}}",
+	"Release": "{{releaseDate.selectedDate}}",
+	"Status": "{{status.selectedOptionValue}}",
+	"Length (minutes)": {{length.text}},
+	"Budget": {{parseFloat(budget.text)}},
+	"Platform": "{{platform.selectedOptionValue}}"
+}

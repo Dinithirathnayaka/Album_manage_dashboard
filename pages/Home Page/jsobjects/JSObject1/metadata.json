@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Home Page",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "defHomeImgUrl",
+        "value": "\"https://i.ibb.co/KGS61GC/65-removebg-preview.png\""
+      },
+      {
+        "name": "defThumbImgUrl",
+        "value": "\"https://i.ibb.co/3S3d3K4/881765040.png\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Home Page_JSObject1",
+  "deleted": false,
+  "gitSyncId": "65a5498a1f076a52e45a4a0c_65a54f9b1f076a52e45a4a33"
+}
