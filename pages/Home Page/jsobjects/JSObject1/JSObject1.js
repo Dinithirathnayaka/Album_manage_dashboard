@@ -1,6 +1,10 @@
 export default {
+
+
 	defHomeImgUrl:"https://i.ibb.co/KGS61GC/65-removebg-preview.png",
 	defThumbImgUrl:"https://i.ibb.co/3S3d3K4/881765040.png",
+
+
 	getText: (Platform) => {
 		if (Platform == 'Instagram') return "lightsalmon";
 		else if (Platform == 'Spotify') return "lightgreen";

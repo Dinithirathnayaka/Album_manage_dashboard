@@ -27,7 +27,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "originalBottomRow": 67,
     "mobileBottomRow": 63,
-    "widgetName": "platformCopy",
+    "widgetName": "updatePlatform",
     "dynamicPropertyPathList": [],
     "displayName": "TreeSelect",
     "searchTags": [

@@ -9,8 +9,7 @@
     "leftColumn": 10,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultText"}
+        {"key": "borderRadius"}
     ],
     "labelStyle": "",
     "inputType": "TEXT",
@@ -63,6 +62,6 @@
     "mobileLeftColumn": 5,
     "maxDynamicHeight": 9000,
     "iconAlign": "left",
-    "defaultText": "{{AlbumData.triggeredRow.Budget}}",
+    "defaultText": "",
     "minDynamicHeight": 4
 }

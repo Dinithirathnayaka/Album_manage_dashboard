@@ -27,7 +27,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{\n\t\"Id\": {{AlbumData.triggeredRow.Id}},\n\t\"Album\": \"{{Input1.text}}\",\n\t\"Status\": \"{{updateStatus.selectedOptionValue}}\",\n\n}",
+      "body": "{\n\t\"Id\": {{AlbumData.triggeredRow.Id}},\n\t\"Album\": \"{{updateAlbumName.text}}\",\n\t\"Status\": \"{{updateStatus.selectedOptionValue}}\",\n\n}",
       "bodyFormData": [],
       "httpMethod": "PATCH",
       "httpVersion": "HTTP11",
@@ -52,7 +52,7 @@
     "messages": [],
     "jsonPathKeys": [
       "AlbumData.triggeredRow.Id",
-      "Input1.text",
+      "updateAlbumName.text",
       "updateStatus.selectedOptionValue"
     ],
     "userSetOnLoad": false,

@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 22,
     "widgetName": "confirmbtn",
-    "onClick": "{{deleteAlbum.run().then(() => {\n  closeModal('DeleteModal');\n  showAlert('Album delete successfully !', 'success');\n  getAlbums.run();\n}).catch(() => {\n  showAlert('There may be an Error, Check again !', 'error');\n});}}",
+    "onClick": "{{deleteAlbum.run().then(() => {\n  closeModal('DeleteModal');\n  showAlert('Album delete successfully !', 'success');\n  getAlbums.run();\n  countAlbums.run();\n}).catch(() => {\n  showAlert('There may be an Error, Check again !', 'error');\n});}}",
     "buttonColor": "#03b365",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",

@@ -13,7 +13,7 @@
         {"key": "borderRadius"},
         {"key": "defaultOptionValue"}
     ],
-    "options": "[\n   {\n     \"label\": \"Live\",\n     \"value\": \"Live\",\n     \"children\": []\n   },\n   {\n     \"label\": \"Script\",\n     \"value\": \"Script\",\n     \"children\": []\n   },\n   {\n     \"label\": \"Pre-prod\",\n     \"value\": \"Pre-Prod\"\n  \n   },\n   {\n     \"label\": \"Research\",\n     \"value\": \"Research\"\n    \n   },\n   {\n     \"label\": \"Trailer\",\n     \"value\": \"Trailer\"\n    \n   },\n   {\n     \"label\": \"Outreach\",\n     \"value\": \"Outreach\"\n     \n   },\n   {\n     \"label\": \"Edit\",\n     \"value\": \"Edit\"\n    \n   }\n]",
+    "options": "[\n   {\n     \"label\": \"Live\",\n     \"value\": \"Live\"\n   },\n   {\n     \"label\": \"Script\",\n     \"value\": \"Script\"\n   },\n   {\n     \"label\": \"Pre-prod\",\n     \"value\": \"Pre-Prod\"\n\n   },\n   {\n     \"label\": \"Research\",\n     \"value\": \"Research\"\n\n   },\n   {\n     \"label\": \"Trailer\",\n     \"value\": \"Trailer\"\n\n   },\n   {\n     \"label\": \"Outreach\",\n     \"value\": \"Outreach\"\n\n   },\n   {\n     \"label\": \"Edit\",\n     \"value\": \"Edit\"\n\n   }\n]",
     "placeholderText": "Select option",
     "isDisabled": false,
     "isRequired": false,

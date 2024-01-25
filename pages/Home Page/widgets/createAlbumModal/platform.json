@@ -5,15 +5,14 @@
     "topRow": 25,
     "labelWidth": 5,
     "type": "SINGLE_SELECT_TREE_WIDGET",
-    "defaultOptionValue": "{{AlbumData.triggeredRow.Platform}}",
+    "defaultOptionValue": "",
     "animateLoading": true,
     "leftColumn": 10,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultOptionValue"}
+        {"key": "borderRadius"}
     ],
-    "options": "[\n\n  {\n    \"label\": \"Instagram\",\n    \"value\": \"Instagram\"\n  },\n  {\n    \"label\": \"Spotify\",\n    \"value\": \"Spotify\"\n  },\n\t {\n    \"label\": \"YouTube\",\n    \"value\": \"YouTube\"\n  },\n\t {\n    \"label\": \"Facebook\",\n    \"value\": \"Facebook\"\n  },\n\t\t {\n    \"label\": \"Reddit\",\n    \"value\": \"Reddit\"\n  }\n]",
+    "options": "[\n  {\n    \"label\": \"Instagram\",\n    \"value\": \"Instagram\"\n  },\n  {\n    \"label\": \"Spotify\",\n    \"value\": \"Spotify\"\n  },\n\t {\n    \"label\": \"YouTube\",\n    \"value\": \"YouTube\"\n  },\n\t {\n    \"label\": \"Facebook\",\n    \"value\": \"Facebook\"\n  },\n\t\t {\n    \"label\": \"Reddit\",\n    \"value\": \"Reddit\"\n  }\n]",
     "placeholderText": "Select platorm",
     "isDisabled": false,
     "isRequired": "true",
